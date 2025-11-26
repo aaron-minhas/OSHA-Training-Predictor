@@ -1,0 +1,111 @@
+First Name,Last Name,Training Title,Status,End Date,Prediction,Risk_Score_%
+Anthony,Baxley,Compressed Gas Cylinder Safety,Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,100.0
+Anthony,Baxley,"Fire Extinguisher Safety for Construction, Parts 1-2 (US)",Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,100.0
+Anthony,Baxley,Fall Protection (US),Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,100.0
+Anthony,Baxley,Excavation and Trenching Safety (US),Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,100.0
+Anthony,Baxley,Electrical Safety and Lockout/Tagout (LOTO) (US),Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,100.0
+Anthony,Baxley,Crystalline Silica Awareness,Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,100.0
+Anthony,Baxley,Hand and Power Tool Safety,Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,100.0
+Anthony,Baxley,Fire Watch,Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,100.0
+Anthony,Baxley,Personal Protective Equipment (PPE) Overview,Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,100.0
+Anthony,Baxley,Mobile Elevated Work Platforms,Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,100.0
+Anthony,Baxley,"Ladder Safety for Construction, Parts 1-2",Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,100.0
+Anthony,Baxley,Hot Work for Construction,Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,100.0
+Anthony,Baxley,Hearing Conservation,Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,100.0
+Anthony,Baxley,"Health Hazards in Construction, Parts 1-5",Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,100.0
+Anthony,Baxley,Respiratory Protection,Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,100.0
+Anthony,Baxley,"Rough Terrain Forklift Safety, Parts 1-2",Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,100.0
+Kevin,Charbonneau,Mobile Elevated Work Platforms,Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,100.0
+Kevin,Charbonneau,Personal Protective Equipment (PPE) Overview,Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,100.0
+Kevin,Charbonneau,Respiratory Protection,Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,100.0
+Kevin,Charbonneau,Basic Rigging Awareness,Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,100.0
+Kevin,Charbonneau,Crystalline Silica Awareness,Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,100.0
+Kevin,Charbonneau,Electrical Safety and Lockout/Tagout (LOTO) (US),Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,100.0
+Kevin,Charbonneau,Hand and Power Tool Safety,Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,100.0
+Kevin,Charbonneau,"Health Hazards in Construction, Parts 1-5",Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,100.0
+Kevin,Charbonneau,Hearing Conservation,Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,100.0
+Kevin,Charbonneau,Compressed Gas Cylinder Safety,Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,100.0
+Kevin,Charbonneau,Fire Watch,Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,100.0
+Kevin,Charbonneau,"Fire Extinguisher Safety for Construction, Parts 1-2 (US)",Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,100.0
+Kevin,Charbonneau,Fall Protection (US),Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,100.0
+Kevin,Charbonneau,"Rough Terrain Forklift Safety, Parts 1-2",Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,100.0
+Kevin,Charbonneau,Hot Work for Construction,Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,100.0
+Kevin,Charbonneau,"Ladder Safety for Construction, Parts 1-2",Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,100.0
+Kevin,Charbonneau,Excavation and Trenching Safety (US),Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,100.0
+Anthony,Baxley,"Welding, Cutting and Brazing, Parts 1-3 (IACET CEU=0.1)",Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,99.75
+Kevin,Charbonneau,"Welding, Cutting and Brazing, Parts 1-3 (IACET CEU=0.1)",Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,99.75
+Kevin,Charbonneau,"Confined Spaces, Parts 1-2 (IACET CEU=0.1)",Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,99.75
+Anthony,Baxley,"Confined Spaces, Parts 1-2 (IACET CEU=0.1)",Not Started,2025-12-17,HIGH RISK – Will Miss Deadline,99.75
+Anthony,Baxley,Basic Rigging Awareness,In Progress,2025-12-17,HIGH RISK – Will Miss Deadline,98.25
+Kevin,Charbonneau,Hazard Communication (US),In Progress,2025-12-17,HIGH RISK – Will Miss Deadline,98.25
+Anthony,Baxley,Hazard Communication (US),In Progress,2025-12-17,HIGH RISK – Will Miss Deadline,98.25
+Jose,Lopez,OSHA 10: Construction Industry Outreach Training Course (IACET CEU=1.0),Completed-Failed,2026-02-15,HIGH RISK – Will Miss Deadline,63.25000000000001
+Eric,Madden,OSHA 10: Construction Industry Outreach Training Course (IACET CEU=1.0),In Progress,2026-02-15,Will Finish On Time,12.250000000000005
+Jaime,Rivera,Basic Rigging Awareness,In Progress,2025-12-14,Will Finish On Time,8.750000000000002
+Jose,Lopez,OSHA 10: Construction Industry Outreach Training Course (IACET CEU=1.0),Not Started,2026-02-16,Will Finish On Time,7.499999999999996
+Keith,Viera,OSHA 10: Construction Industry Outreach Training Course (IACET CEU=1.0),In Progress,2026-02-16,Will Finish On Time,5.75
+Jaime,Rivera,Confined Spaces for Construction (Spanish) (IACET CEU=0.1),Not Started,2025-12-14,Will Finish On Time,3.749999999999998
+Deybi,Cordero,OSHA 10: Construction Industry Outreach Training Course (IACET CEU=1.0),In Progress,2026-02-17,Will Finish On Time,3.0000000000000027
+JEREMY,REINHART,OSHA 10: Construction Industry Outreach Training Course (IACET CEU=1.0),Completed,2026-02-14,Will Finish On Time,2.749999999999997
+Carlos,Moscoso,OSHA 10: Construction Industry Outreach Training Course (Spanish) (IACET CEU=1.1),In Progress,2026-02-13,Will Finish On Time,2.749999999999997
+Conor,Gibbons,Electrical Safety and Lockout/Tagout (LOTO),Not Started,2025-12-17,Will Finish On Time,1.749999999999996
+Cristina,Maher,OSHA 10: Construction Industry Outreach Training Course (IACET CEU=1.0),Not Started,2025-12-17,Will Finish On Time,1.749999999999996
+Lazerick,Thompkins,OSHA 10: Construction Industry Outreach Training Course (IACET CEU=1.0),In Progress,2026-02-13,Will Finish On Time,1.2499999999999956
+Jaime,Rivera,Confined Space Hazards (Spanish),In Progress,2025-12-14,Will Finish On Time,0.7499999999999951
+April,Suiter,OSHA 10: Construction Industry Outreach Training Course (IACET CEU=1.0),Completed,2025-12-13,Will Finish On Time,0.7499999999999951
+THOMAS,CARGILL,OSHA 10: Construction Industry Outreach Training Course (IACET CEU=1.0),In Progress,2026-05-14,Will Finish On Time,0.7499999999999951
+Tara,Thomas,OSHA 10: Construction Industry Outreach Training Course (IACET CEU=1.0),In Progress,2025-12-14,Will Finish On Time,0.7499999999999951
+Jaime,Rivera,Excavation and Trenching Safety (US) (Spanish),Completed,2025-12-14,Will Finish On Time,0.7499999999999951
+Cristino,Diaz,OSHA 30: Construction Industry Outreach Training Course (IACET CEU=3.1),In Progress,2026-05-14,Will Finish On Time,0.5000000000000004
+Julio,Valera,OSHA 30: Construction Industry Outreach Training Course (IACET CEU=3.1) (Actively Proctored),In Progress,2026-05-15,Will Finish On Time,0.5000000000000004
+Adam,Jensen,OSHA 30: Construction Industry Outreach Training Course (IACET CEU=3.1),In Progress,2025-12-13,Will Finish On Time,0.5000000000000004
+Richard,Kiel,OSHA 10: Construction Industry Outreach Training Course (IACET CEU=1.0),Not Started,2026-02-14,Will Finish On Time,0.5000000000000004
+,,,,,Will Finish On Time,0.24999999999999467
+Alexander,Vazquez Coronado,OSHA 10: Construction Industry Outreach Training Course (IACET CEU=1.0),Not Started,2026-02-17,Will Finish On Time,0.24999999999999467
+Thomas,McAdams,OSHA 10: Construction Industry Outreach Training Course (IACET CEU=1.0),In Progress,2026-02-13,Will Finish On Time,0.24999999999999467
+Joel,Guillen,OSHA 10: Construction Industry Outreach Training Course (IACET CEU=1.0),In Progress,2026-02-13,Will Finish On Time,0.24999999999999467
+Robbie,Cawthron,OSHA 10: General Industry Outreach Training Course (IACET CEU=1.0),Not Started,2025-12-14,Will Finish On Time,0.24999999999999467
+Demetrius,Devon Davis,OSHA 10: Construction Industry Outreach Training Course (IACET CEU=1.0),In Progress,2026-02-13,Will Finish On Time,0.24999999999999467
+Colten,Hardy,OSHA 10: Construction Industry Outreach Training Course (IACET CEU=1.0),Not Started,2026-02-13,Will Finish On Time,0.0
+Cosme,Torres,OSHA 30: Construction Industry Outreach Training Course (IACET CEU=3.1),Not Started,2026-05-14,Will Finish On Time,0.0
+Christopher,Ware,OSHA 30: Construction Industry Outreach Training Course (IACET CEU=3.1),In Progress,2026-05-13,Will Finish On Time,0.0
+Arthur,Lloyd,OSHA 30: Construction Industry Outreach Training Course (IACET CEU=3.1),Not Started,2026-05-13,Will Finish On Time,0.0
+Ayomide,Ige,OSHA 30: Construction Industry Outreach Training Course (IACET CEU=3.1) (Actively Proctored),In Progress,2026-05-13,Will Finish On Time,0.0
+Antonio,Cutright,OSHA 30: Construction Industry Outreach Training Course (IACET CEU=3.1),In Progress,2026-05-13,Will Finish On Time,0.0
+Artemio,Rocha,OSHA 30: Construction Industry Outreach Training Course (IACET CEU=3.1),In Progress,2026-05-13,Will Finish On Time,0.0
+Beth,Fronczak,OSHA 30: Construction Industry Outreach Training Course (IACET CEU=3.1),In Progress,2026-05-13,Will Finish On Time,0.0
+Brittany,FIDLER,OSHA 30: Construction Industry Outreach Training Course (IACET CEU=3.1),In Progress,2026-05-13,Will Finish On Time,0.0
+Alexander,Wallner,OSHA 30: Construction Industry Outreach Training Course (IACET CEU=3.1),Not Started,2026-05-17,Will Finish On Time,0.0
+Dale,Whaley,OSHA 10: Construction Industry Outreach Training Course (IACET CEU=1.0),Not Started,2026-02-13,Will Finish On Time,0.0
+Jaime,Rivera,Competent Persons for Construction (US) (Spanish),Completed,2025-12-14,Will Finish On Time,0.0
+Jaime,Rivera,Basic Rigging Awareness (Spanish),Completed,2025-12-14,Will Finish On Time,0.0
+Ian,Christensen,OSHA 30: Construction Industry Outreach Training Course (IACET CEU=3.1),Not Started,2026-05-14,Will Finish On Time,0.0
+Eddie,Zacatelco,OSHA 30: Construction Industry Outreach Training Course (IACET CEU=3.1) (Actively Proctored),In Progress,2026-05-13,Will Finish On Time,0.0
+Jose,Padilla,OSHA 30: Construction Industry Outreach Training Course (Spanish) (IACET CEU=3.1),Not Started,2026-05-14,Will Finish On Time,0.0
+Jaime,Rivera,Fire Extinguisher Safety Awareness (Spanish),Completed,2025-12-14,Will Finish On Time,0.0
+Jorge,Tapia,OSHA 30: Construction Industry Outreach Training Course (IACET CEU=3.1),Not Started,2026-05-17,Will Finish On Time,0.0
+Jaime,Rivera,Concrete and Masonry Awareness (Spanish),Completed,2025-12-14,Will Finish On Time,0.0
+Jennifer,Thompson,OSHA 30: Construction Industry Outreach Training Course (IACET CEU=3.1),In Progress,2026-05-14,Will Finish On Time,0.0
+Joesph,Torres,OSHA 30: Construction Industry Outreach Training Course (IACET CEU=3.1) (Actively Proctored),Not Started,2026-05-14,Will Finish On Time,0.0
+Jaime,Rivera,Construction Safety Orientation (Spanish),Completed,2025-12-14,Will Finish On Time,0.0
+Jaime,Rivera,Confined Spaces: Construction Requirements (Spanish),In Progress,2025-12-14,Will Finish On Time,0.0
+Joel,Taberski,OSHA 30: Construction Industry Outreach Training Course (IACET CEU=3.1),Not Started,2026-05-14,Will Finish On Time,0.0
+Jerry,Lusikyan,OSHA 30: Construction Industry Outreach Training Course (IACET CEU=3.1),Not Started,2026-05-13,Will Finish On Time,0.0
+LIWEN,CHEN,OSHA 30: Construction Industry Outreach Training Course (IACET CEU=3.1) (Actively Proctored),In Progress,2026-05-13,Will Finish On Time,0.0
+LUCAS,JETTY,OSHA 30: Construction Industry Outreach Training Course (IACET CEU=3.1),In Progress,2026-05-17,Will Finish On Time,0.0
+Owen,Gillespie,OSHA 30: Construction Industry Outreach Training Course (IACET CEU=3.1) (Actively Proctored),Not Started,2026-05-14,Will Finish On Time,0.0
+Michael,Shearer,OSHA 30: Construction Industry Outreach Training Course (IACET CEU=3.1),In Progress,2026-05-14,Will Finish On Time,0.0
+MICHAEL,HOVER,OSHA 30: Construction Industry Outreach Training Course (IACET CEU=3.1),In Progress,2026-05-13,Will Finish On Time,0.0
+Matthew,Ward,OSHA 10: Construction Industry Outreach Training Course (IACET CEU=1.0),Not Started,2026-02-13,Will Finish On Time,0.0
+Máté,Menyhért,OSHA 30: Construction Industry Outreach Training Course (IACET CEU=3.1),Not Started,2026-05-17,Will Finish On Time,0.0
+Mark,Merisier,OSHA 30: Construction Industry Outreach Training Course (IACET CEU=3.1) (Actively Proctored),Not Started,2026-05-14,Will Finish On Time,0.0
+Patrick,HIckey,OSHA 30: Construction Industry Outreach Training Course (IACET CEU=3.1) (Actively Proctored),In Progress,2026-05-17,Will Finish On Time,0.0
+Ryan,Harris,OSHA 30: Construction Industry Outreach Training Course (IACET CEU=3.1),In Progress,2026-05-14,Will Finish On Time,0.0
+Shatasha,Withers,OSHA 30: Construction Industry Outreach Training Course (IACET CEU=3.1),In Progress,2026-05-13,Will Finish On Time,0.0
+Shane,Thacker,OSHA 30: Construction Industry Outreach Training Course (IACET CEU=3.1) (Actively Proctored),In Progress,2026-05-17,Will Finish On Time,0.0
+Scott,Baldwin,OSHA 30: Construction Industry Outreach Training Course (IACET CEU=3.1),In Progress,2026-05-14,Will Finish On Time,0.0
+Sawyer,Cone,OSHA 10: Construction Industry Outreach Training Course (IACET CEU=1.0),Not Started,2026-02-13,Will Finish On Time,0.0
+Taven,Greer,OSHA 30: Construction Industry Outreach Training Course (IACET CEU=3.1),In Progress,2026-05-13,Will Finish On Time,0.0
+Tammy,Lex,OSHA 30: Construction Industry Outreach Training Course (IACET CEU=3.1),Not Started,2026-05-16,Will Finish On Time,0.0
+Vesean,Dickey,OSHA 30: Construction Industry Outreach Training Course (IACET CEU=3.1),Not Started,2026-05-13,Will Finish On Time,0.0
+Victor,Piva,OSHA 10: Construction Industry Outreach Training Course (Spanish) (IACET CEU=1.1),Completed,,Will Finish On Time,0.0
